@@ -1,4 +1,4 @@
-# ![Logo](docs/img/harbour_glfw.svg) hb-glfw
+# ![Logo](docs/img/harbour_glfw.svg)
 
 hb-glfw is a Harbour module providing bindings for the [GLFW](https://github.com/glfw/glfw) library. It provides a simple API for creating windows, contexts and surfaces, receiving input and events.
 
